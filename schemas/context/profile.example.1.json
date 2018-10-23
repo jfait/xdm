@@ -15,13 +15,11 @@
   ],
   "xdm:person": {
     "xdm:name": {
-      "xdm:givenName": "Jane",
+      "xdm:firstName": "Jane",
       "xdm:middleName": "F",
-      "xdm:surname": "Doe"
+      "xdm:lastName": "Doe"
     },
-    "xdm:birthMonth": 1,
-    "xdm:birthDay": 3,
-    "xdm:birthYear": 1996,
+    "xdm:birthDate": "1996-01-03",
     "xdm:gender": "female"
   },
   "xdm:workAddress": {
